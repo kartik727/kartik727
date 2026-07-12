@@ -2,6 +2,4 @@
 
 # Hello there
 
-I am Kartik Choudhary - machine learning engineer at [Nextdoor](https://github.com/nextdoor). My previous work and internship experience includes TikTok, Meta, Microsoft, and Reliance Jio.
-
-My interests include recommender systems, natural language processing, and reinforcement learning. Specifically, my expertise lies in building highly personalized real-time recommendation engines for social media feeds and search.
+My GitHub mostly has repos of me tinkering with things, and not much in terms of finished, usable projects. 🤷‍♂️
